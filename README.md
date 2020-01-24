@@ -20,15 +20,12 @@ Mr. Bega was originally inspired to write the song during a trip to Miami when h
 
 The song was released on April 19th, 1999. 
 
-https://www.allmusic.com/artist/lou-bega-mn0000210143/biography
-
 ### Location
 U.S demographic data from the SSA. Mr. Bega is a German artist, but he has said he was inspired to cover a mambo song during his trip to Miami.
 
 ### Ages
-All women are of age (i.e. born strictly before 1981 when using 1999). Birth data is categorized by year, song released mid-April. (Mr. Bega was 24 years old when Mambo No. 5 was released.) 
+Mr. Bega is not a scoundrel, this is evident when he sings he does not "want some gin and juice" like his friends. Therefore we assume all women are of age. (quick maths: 1993 - 1975 = and 1999 - 18 = 1981). We will use strict cut-offs by year to align our analyzes with demographic data. Birth data is categorized by year, song released mid-April. (Mr. Bega was 24 years old when Mambo No. 5 was released.) 
 
-Justification: Mr. Bega is not a scoundrel, this is evident when he sings he does not "want some gin and juice" like his friends
 
 ### Names
 * Names given exactly are (cite lyricgenius):
@@ -44,3 +41,7 @@ Justification: Mr. Bega is not a scoundrel, this is evident when he sings he doe
 
 * Tina problem: 
 `["Christina", "Christine", "Kristina", "Kristine"]` but this opens a potential can of worms where Rita is usually short for Margarita, and Sandra for Cassandra
+
+## Sources
+* [Lou Bega biography](https://www.allmusic.com/artist/lou-bega-mn0000210143/biography)
+* 
