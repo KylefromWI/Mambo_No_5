@@ -44,4 +44,4 @@ Mr. Bega is not a scoundrel, this is evident when he sings he does not "want som
 
 ## Sources
 * [Lou Bega biography](https://www.allmusic.com/artist/lou-bega-mn0000210143/biography)
-* 
+* [Source of name data](http://rhiever.github.io/baby-name-explorer/)
